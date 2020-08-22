@@ -15,6 +15,11 @@
 
 **Mentor:** Coached participants in the Beyond.Uptake Data Fellows program which partners with data scientists working in civic and social organizations on applying product principles and strategies into their organizations.
 
+## Technical Skills
+- Python 
+- C / C++ 
+- Domain & Entity Modeling 
+
 ## Education
 
 **Georgia Institute of Technology**  
