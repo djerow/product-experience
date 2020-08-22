@@ -26,7 +26,7 @@
 ## Education
 
 **Georgia Institute of Technology**  
-Master of Science (MS) - Computer Science
+Master of Science (MS) - Computer Science  
 Machine Learning Specialization
 
 **NYU Tandon School of Engineering**  
