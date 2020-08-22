@@ -16,10 +16,10 @@
 **Mentor:** Coached participants in the Beyond.Uptake Data Fellows program which partners with data scientists working in civic and social organizations on applying product principles and strategies into their organizations.
 
 ## Product & Technical Skills
-- Product Discovery and User Research
-- Building Product Metrics 
-- Data Analysis & Modeling 
-- Domain & Entity Modeling 
+- Product discovery, design thinking, and user research
+- Building user centric product metrics and reporting 
+- Data analysis
+- Domain and entity modeling 
 - Python
 - C / C++ 
 
