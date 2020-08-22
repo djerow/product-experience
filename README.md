@@ -18,7 +18,7 @@
 ## Product & Technical Skills
 - Product Discovery and User Research
 - Building Product Metrics 
-- Data Analysis & modeling 
+- Data Analysis & Modeling 
 - Domain & Entity Modeling 
 - Python
 - C / C++ 
