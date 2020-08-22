@@ -2,7 +2,7 @@
 
 ## Bloomberg LP
 
-**Product Manager, Data Contributions:** Product lead for Bloomberg's contributed data platform services. Responsible for building the systems, applications and partnerships to scale global operational capacity, automate alerting, improve data governance, and expand reporting capabilities within Bloomberg’s data contributions business.
+**Product Manager, Data Contributions:** Product lead for Bloomberg's contributed data platform services. Responsible for building the systems, applications and partnerships to scale global operational capacity, improve data governance, and expand reporting capabilities within Bloomberg’s data contributions business.
 
 ## Uptake
 **Product Manager, Developer Services:** Lead Uptake’s Developer Services suite which included the Uptake developer portal, UI components, styles, and templates, reducing time to build new applications by >50% and created a consistent Uptake user experience.  
