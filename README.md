@@ -1,5 +1,9 @@
 # Product Experience 
 
+## Affirm, Inc.
+
+**Senior Product Manager, Capital:** Lead of Affirm's Capital Platform including loan origination, money movement, and risk monitoring products. 
+
 ## Bloomberg LP
 
 **Product Manager, Data Contributions:** Product lead for Bloomberg's contributed data platform services. Responsible for building the systems, applications and partnerships to scale global operational capacity, improve data governance, and expand reporting capabilities within Bloomberg’s data contributions business. 
